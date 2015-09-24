@@ -1,4 +1,6 @@
 %Minimum Time Maneuver
+%The goal is to move the load, which is initially at rest at position p_init to position 
+%p_des, also at rest, in minimum time.
 theta = 15*pi/180;
 T_feas = 0;
 p_feas = 0;
