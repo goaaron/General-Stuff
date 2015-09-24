@@ -1,4 +1,5 @@
 #Optimal Spacecraft Landing
+#We consider the problem of optimizing the thrust profile for a spacecraft to carry out a landing at a target position.
 h=1
 g=.1
 m=10
