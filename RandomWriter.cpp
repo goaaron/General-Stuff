@@ -1,9 +1,4 @@
-/*
- * File: RandomWriter.cpp
- * ----------------------
- * Implements the random writer
- * Name: Aaron Goebel
- */
+//Implements the random writer
 
 #include <iostream>
 #include <fstream>
