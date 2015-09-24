@@ -1,4 +1,7 @@
 %Affine Policy
+%find optimal values of x0 and K by solving a standard explicit
+%convex optimization problem (i.e., one that does not involve an expectation or an
+%infinite number of constraints)
 cvx_begin
 	variables x0(n) K(n,p)
 	minimize (c'*x0)
