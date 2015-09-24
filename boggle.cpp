@@ -1,5 +1,4 @@
-/* File: boggle.cpp
- */
+//Boggle Game
 
 #include "genlib.h"
 #include "gboggle.h"
