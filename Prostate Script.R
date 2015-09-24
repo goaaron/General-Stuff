@@ -1,4 +1,5 @@
 #Prostate Data
+#Different multi-variable tests of significance
 
 library(faraway)
 data(prostate)
